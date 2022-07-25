@@ -58,7 +58,7 @@ Run the server
 ```
 
   
-## Kullanılan Teknolojiler
+## Technologies
 
 **İstemci:** Js, Html, Css
 
