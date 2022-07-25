@@ -37,3 +37,7 @@
 20220725	15:47:56	9dd5e5cd-f148-4b16-9e29-454a6985adce	/assets/fonts/LineIcons.ttf?y2l643	GET
 20220725	15:47:56	0a63c7be-8d3f-478d-83a4-695a94ec5f08	/assets/fonts/LineIcons.woff?y2l643	GET
 20220725	15:47:57	3a86e3cc-4fa3-450a-baf4-88cd5e334b6f	/assets/images/favicon.png	GET
+20220725	16:04:13	074ce08e-017f-43f3-8f2f-602a23257c58	/asdasd	GET
+20220725	16:04:13	ecbb5fd9-5fc6-4edc-b663-235d2587dbdf	/assets/css/404page.css	GET
+20220725	16:04:13	ac61afbd-3138-432e-85f1-a4be017ebcc9	/scripts/404style.js	GET
+20220725	16:04:13	044cde19-5729-45eb-8e0f-43f4d68e20e2	/favicon.ico	GET
